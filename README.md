@@ -34,7 +34,7 @@ node || npm node ./src/bot.js
 # Credits
 
 Coded by [`</Corwin>#0001`](https://discord.com/users/755297485328482356)<br />
-Bug fix by [`Luis Misaki#4165`](https://team.arcades.ga/discord)<br />
+Bug fix by [`Luis Bad#3689`](https://team.arcades.ga/discord)<br />
 
 # Testtings
 
